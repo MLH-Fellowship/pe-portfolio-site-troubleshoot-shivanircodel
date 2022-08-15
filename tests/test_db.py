@@ -1,4 +1,3 @@
-# tests.py db
 import unittest
 from peewee import *
 from app import TimelinePost, get_time_line_post
